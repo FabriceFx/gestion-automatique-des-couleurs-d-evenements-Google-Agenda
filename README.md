@@ -1,9 +1,15 @@
 # Google Calendar Auto-Colorizer
 
+
+[🇫🇷 Version Française](#-version-française) | [🇬🇧 English Version](#-english-version)
+
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
 ![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
 ![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
+
+## 🇫🇷 Version Française
+
 
 ## Description
 Ce projet Google Apps Script automatise la coloration des événements de votre agenda Google principal. Il permet de distinguer visuellement les réunions importantes en fonction des participants (Organisateur ou Invités VIP), facilitant ainsi la lecture de votre emploi du temps.
@@ -38,3 +44,12 @@ Pour que le script s'exécute automatiquement :
 ## Stack technique
 * Javascript (ES6+ V8 Runtime)
 * Google CalendarApp Service
+
+
+---
+## 🇬🇧 English Version
+
+> English translation coming soon.
+
+---
+<p align="center"><a href="https://faucheux.bzh" target="_blank" style="color: inherit; text-decoration: none;">&lt;&gt; par Fabrice Faucheux</a></p>
